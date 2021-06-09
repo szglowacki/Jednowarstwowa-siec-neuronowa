@@ -1,0 +1,49 @@
+RL-Kennzahlensystem
+Zur Navigation springen
+Zur Suche springen
+
+Das RL-Kennzahlensystem wurde von Thomas Reichmann und Laurenz Lachnit im Jahr 1976 entwickelt und stellt ein Rentabilitäts-Liquiditäts-Kennzahlensystem dar. Im Gegensatz zu anderen Kennzahlensystemen enthält dieses Kennzahlensystem somit zwei Spitzenkennzahlen, welche eine gleichrangige Position einnehmen und damit dem Ziel-Pluralismus innerhalb eines Unternehmens Rechnung tragen.
+Inhaltsverzeichnis
+
+    1 Aufbau
+        1.1 Allgemeiner Bereich
+        1.2 Sonderbereich
+    2 Zweck
+    3 Literatur
+    4 Weblinks
+
+Aufbau
+
+Beim RL-Kennzahlensystem handelt es sich um ein reines Ordnungssystem, welches – im Vergleich zum DuPont-Kennzahlensystem und ZVEI-Kennzahlensystem – relativ wenige Kennzahlen enthält. Ziel ist es, sachlogische Zusammenhänge abzubilden.
+RL-Kennzahlensystem
+Liquiditätsteil
+Rentabilitätsteil
+
+An der Spitze des Kennzahlensystems befinden sich die Kennzahlen Liquidität und Rentabilität. Es wird hierbei auf eine mathematische Aufgliederung dieser beiden Größen verzichtet.
+
+Das Kennzahlensystem wird in zwei Bereiche aufgeteilt:
+
+    der allgemeine Bereich
+    der Sonderbereich
+
+Allgemeiner Bereich
+
+Dieser Bereich enthält die auf das Gesamtunternehmen bezogenen Kennzahlen zu Erfolg und Liquidität:
+
+    Das „Ordentliche Ergebnis“ wird mittels der Rentabilität als Spitzenkennzahl dargestellt. Weitere – im logischen Zusammenhang stehende – Kennzahlen sind
+        Eigenkapitalrentabilität
+        Umsatzrentabilität
+        ROI
+    Die „Liquiden Mittel“ werden mit der Spitzenkennzahl Liquidität dargestellt. Unterkennzahlen sind u. a.
+        Cash-Flow
+        Working Capital
+
+Sonderbereich
+
+Dieser Bereich wird ebenfalls in Liquidität und Rentabilität aufgeteilt, es werden jedoch unternehmensspezifische Kennzahlen berücksichtigt, wie z. B.
+
+    Deckungsbeiträge
+    Fix-Kosten
+
+Zweck
+Das RL-Kennzahlensystem dient vorwiegend als Planungs- und Kontrollinstrument. Dabei dient der allgemeine Bereich durch seine Spitzenkennzahlen der laufenden Kontrolle, Steuerung und Planung. Der Sonderbereich gibt Auskunft über wesentliche Einflussgrößen auf Rentabilität und Liquidität. 

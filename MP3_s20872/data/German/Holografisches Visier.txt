@@ -1,0 +1,38 @@
+Holografisches Visier
+Zur Navigation springen
+Zur Suche springen
+Ein holografisches Visier auf einem M4 Carbine
+Schema
+Blick durch ein holografisches Visier. Das holografische Absehen ist sichtbar.
+
+Das Holografische Visier (auch verkürzt zu Holovisier) ist ein auf Holografie basierendes optisches Visier für Schusswaffen.
+
+Im Gegensatz zur offenen Visierung oder dem Zielfernrohr wird das Ziel mit beiden Augen erfasst. Unter normalen Umständen gibt es beim Zielen keinen Parallaxenfehler. Dieses ermöglicht sowohl schnelle als auch präzise Zielerfassung und Schussabgabe bei gleichzeitig ungehindertem peripheren Sehens des Umfeld. Das holografische Visier, wie auch das verwandte Reflexvisier, gibt im Unterschied zu einem Laservisier keinen aktiven Lichtstrahl auf das Ziel ab.[1]
+
+Die Visiere werden als Zubehörmontage in die Visierlinie der Waffe befestigt. Wegen ihrer der Größe sind holografische Visiere nicht für ständig mitzuführende Gebrauchspistolen geeignet, sondern eher für Gewehre und Maschinenpistolen geeignet. Auch müssen sie vor dem Gebrauch angeschaltet und die Helligkeit des Hologramms muss an das Umgebungslicht angepasst werden.[1]
+Inhaltsverzeichnis
+
+    1 Geschichte
+    2 Aufbau und Funktionsweise
+    3 Vergleich mit Rotpunktvisier
+    4 Einzelnachweise
+
+Geschichte
+
+Der erste Prototyp wurde 1971 von dem Physiker Juris Upatnieks an der University of Michigan als im Rahmen eines Forschungsauftrags für die US Air Force entwickelt.[2] Die Entwicklung wurde in der Non-Profit-Forschungseinrichtung Environmental Research Institute of Michigan (ERIM) weitergeführt. 1995 wurde als Ableger das Unternehmen EOTech gegründet. Ein Jahr später brachte EOTech die ersten holografischen Visiere auf den Markt.[3]
+Aufbau und Funktionsweise
+
+Ein holografisches Visier besteht aus verschiedenen optischen Komponenten.
+
+Die 2D- oder 3D-Aufnahme des Absehen (umgangssprachlich „Fadenkreuz“) als Transmissionshologramm befindet sich in dem Schützen zugewandten Glas. Eine Laserdiode beleuchtet diese Aufnahme des Absehens und der Schütze nimmt in der Sichtlinie das Hologramm wahr.[4] Weil das Absehen holografisch über die gesamte Fläche der Glasplatte aufgenommen ist, kann der Schützen dieses erkennen, auch wenn ein Teil dieses Glases zerstört oder verdeckt ist. Solange der Schütze durch ein intaktes Teil der Glasplatte schaut, ist das holografische Absehen für ihn sichtbar.[1]
+
+Ein holografisches Gitter gleicht die temperaturabhängigen Wellenlängen der Laserdiode aus.[4] Die Komponenten zum Temperaturausgleich sind fehleranfällig und haben zu mangelhaften Visieren geführt.[5] Alternativ ist die Stabilisierung über einen Optischer Resonator möglich. In Zukunft könnte photo-thermo-refraktives Glas für diesen Zweck eingesetzt werden.[6]
+
+Mit der Höhen- und Seitenverstellung wird die ballistische Kurve und Windabdrift kompensiert. Weitere optische Komponenten sind Spiegel und ein Kollimator.[4]
+
+Diese Komponenten sind in einem Gehäuse untergebracht; eine vordere Glasscheibe schließt dieses wasserdicht ab. Diese Scheibe ist nicht relevant für das optische System; sie kann zerbrechen, der Schütze wird das Absehen trotzdem sehen.[7] In der Regel haben die beiden Scheiben eine Antireflexbeschichtung. Ebenso nimmt das Gehäuse die Batterie auf. Bedienelemente zu Einstellung der Helligkeit des holografischen Absehens sind verfügbar, ansonsten eine Batteriezustandsanzeige. Manche Visiere haben einen Umgebungslichtsensor, welche die Helligkeit des holografischen Absehens regelt.[1] Das Anschalten des Visiers geschieht entweder manuell über einen Bedienelement oder automatisch über einen Erschütterungs- oder Neigungssensor.[8]
+
+Manche holografische Systeme beinhalten eine eingebaute Vergrößerungsoptik.[1] Der Großteil bietet keine Vergrößerung und ist auf nahe Kampfdistanzen ausgelegt. Separate, abklappbare Vergrößerungsoptiken können vor ein holografisches Visier montiert werden um auf größeren Kampfdistanzen zu unterstützen.[9]
+Vergleich mit Rotpunktvisier
+
+Holografische Visiere sind technisch komplexer und somit teurer als Rotpunktvisiere. Die Rotpunktvisiere können deutlich kleiner günstiger ausgeführt werden. Die Batterielebensdauer von holografischen Visieren ist kürzer, da die Laserdiode eine höhere Leistung hat. Die einfachen Rotpunktvisiere zeigen nur einen Punkt an, holografisches Visier können hingegen komplexe Absehen anzeigen und somit für schnellere Zielerfassung sorgen.[7] 
